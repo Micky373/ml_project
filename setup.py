@@ -14,7 +14,7 @@ def get_requirements(file_path):
 
     return requirements
 
-# Creating a setup filee
+# Creating a setup file
 setup(
     name="ml project",
     version="0.01",
